@@ -1,0 +1,3 @@
+"Are more than 5 people allowed?","Sorry. Our place is not suitable for more than 5 people."
+"What to do if the TV doesn't turn on?","Try moving the center speaker sideways. It could be blocking the remote's signal."
+"How many people does you place fit?","Our place fits up to 5 people. There is a king bed, two twins and one trundle."
